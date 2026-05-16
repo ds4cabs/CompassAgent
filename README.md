@@ -1,5 +1,11 @@
 # CompassAgent
 
+[![GitHub Pages: live](https://img.shields.io/badge/GitHub_Pages-live-brightgreen?logo=github)](https://ds4cabs.github.io/CompassAgent/)
+![CABS: 2026](https://img.shields.io/badge/CABS-2026-6f42c1)
+![status: MVP in progress](https://img.shields.io/badge/status-MVP_in_progress-f1c40f)
+![type: Interactive Dashboard](https://img.shields.io/badge/type-Interactive_Dashboard-1f6feb)
+![domain: Career Intelligence](https://img.shields.io/badge/domain-Career_Intelligence-0aa)
+
 **Intern:** Aaron Wu
 **Project Type:** Interactive Dashboard
 
