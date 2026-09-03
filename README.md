@@ -25,7 +25,7 @@ CompassAgent is an AI-powered career briefing assistant for life-sciences job se
 - `find_pi_labs_nih` (NIH RePORTER)
 
 ## Tech Stack
-Python, Streamlit, spaCy, pandas, requests, `google-generativeai`, markdown export
+Python, Streamlit, pandas, requests, `google-generativeai`, markdown export
 
 ## Notes
 This project is designed as a single intern dashboard with reproducible artifact generation, not a chat interface.
